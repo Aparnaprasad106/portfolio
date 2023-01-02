@@ -1,0 +1,12 @@
+p{
+    font-size: 2rem;
+    line-height: 1.25;
+}
+/* media query syntax
+@media(expr){property:value;}
+ */
+ @media  (max-width:768px){
+    p{
+        font-size: 1.75rem;
+    }
+ } 

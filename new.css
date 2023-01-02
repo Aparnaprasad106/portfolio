@@ -1,0 +1,10 @@
+div{
+    width: 24%;
+    height: 500px;
+    border: 1px solid;
+    float: left;
+    margin: 60px;
+}
+img{
+    width: 100%;
+}
